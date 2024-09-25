@@ -4,6 +4,7 @@
 
 Introducing the ultimate smartphone experience with three revolutionary modes designed to elevate your digital life! Drunk Mode provides a powerful simulation of alcohol impairment, distorting visuals and audio to highlight the dangers of intoxicated smartphone use and promote safer habits. Lightspeed Mode transports you to a futuristic world of stunning visuals and 3D effects, offering a thrilling escape into vibrant, animated landscapes—perfect for those moments when you need a break from the ordinary. For the daring, Hardcore Power Mode pushes your device to its limits, turning off all power backups and leaving you with just the remaining battery life. It's a heart-pounding test of your resourcefulness, challenging you to maximize every second. These innovative modes aren't just features—they're experiences that make your device more engaging, educational, and exciting than ever before!
 
+#
 ### Drunk Mode:
 
 In Drunk Mode, the user's experience is intentionally impaired to simulate the effects of alcohol consumption. The audio becomes slurred and distorted, making it challenging to understand conversations or media content. Text on the screen appears blurry and difficult to read, further adding to the disorienting effect. Navigating through apps and menus becomes a real challenge, as motor skills are simulated to be impaired. This mode aims to raise awareness about the dangers of alcohol-impaired activities and discourage using smartphones while intoxicated.
