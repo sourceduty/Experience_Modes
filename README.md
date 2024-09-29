@@ -22,4 +22,11 @@ Lightspeed Mode offers a visually stunning and immersive experience. The wallpap
 Hardcore Power Mode is all about pushing the limits of your device's battery life and resilience. In this mode, all power backups and charging options are disabled. Your device operates solely on its remaining battery life, and there's a countdown timer displaying how much time you have left before your device powers off. This mode is for those who thrive on the thrill of using their device with extreme caution and efficiency. It encourages users to manage their time wisely and make the most of their device's battery life, testing their skills in resource management and adaptability.
 
 #
+### Related Links
+
+[Windows](https://github.com/sourceduty/Windows)
+<br>
+[Windows Deviance](https://github.com/sourceduty/Windows_Deviance)
+
+#
 Copyright (C) 2023, Sourceduty - All Rights Reserved.
